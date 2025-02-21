@@ -14,7 +14,9 @@ cd cosc6440-hw1-as5120
 # Install required Python packages
 pip install -r requirements.txt
 
-# Start the Jupyter Notebook server
+# Start the Jupyter Notebook server 
 jupyter notebook
 
 # Open COSC_6440_HW1_as5120.ipynb and run all cells
+```
+### If it doesn't run on terminal, try it with this [Google Colab Notebook](https://colab.research.google.com/drive/1OFWiDnCZ73MyfkHNmKPnqcMuWLz2Gy1H?usp=sharing)
