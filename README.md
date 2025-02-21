@@ -13,3 +13,8 @@ cd cosc6440-hw1-as5120
 
 # Install required Python packages
 pip install -r requirements.txt
+
+# Start the Jupyter Notebook server
+jupyter notebook
+
+# Open COSC_6440_HW1_as5120.ipynb and run all cells
